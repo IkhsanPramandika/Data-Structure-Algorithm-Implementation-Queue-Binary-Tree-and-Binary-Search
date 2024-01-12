@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UAS_SDA1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SDA_IkhsanPramandika/src/UAS_SDA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
